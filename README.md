@@ -1,2 +1,0 @@
-# MathsQuiz
-Android Quiz App
